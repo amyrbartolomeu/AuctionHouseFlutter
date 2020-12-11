@@ -1,16 +1,9 @@
 # auction_house
 
-A new Flutter application.
+Este app foi criado com o intuito de ser uma especie de 'Auction House' para itens dentro de um video-game.
 
-## Getting Started
+Este app foi criado utilizando a linguagem Dart, e usando o Firebase como banco de dados.
 
-This project is a starting point for a Flutter application.
+Neste app vc consegue criar uma conta, logar, deslogar, adicionar um item a sua coleção, colocar o item a venda, e ver todos os itens disponiveis no mercado.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Alunos que participaram da realização desse projeto: Amyr Bartolomeu e Mateus Muller
